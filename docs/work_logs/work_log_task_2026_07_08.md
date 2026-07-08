@@ -5,6 +5,16 @@
 
 ---
 
+## [AI_ASSISTANT]_Cập nhật bối cảnh dự án (thư viện 2000 cuốn sách giấy, chuyển từ Excel) vào tài liệu README.md (10:43:12)
+- **Tác vụ**: Cập nhật bối cảnh dự án (thư viện 2000 cuốn sách giấy, chuyển từ Excel) vào tài liệu README.md
+- **Người thực hiện**: Antigravity / Anh Lưu
+- **Danh sách file thay đổi**:
+| Đường dẫn file | Trạng thái |
+| :--- | :---: |
+| `EADME.md` | MODIFY |
+
+---
+
 ## [AI_ASSISTANT]_Doi repo sang public, tao logo bang AI, viet tai lieu README.md va push len GitHub (10:19:22)
 - **Tác vụ**: Doi repo sang public, tao logo bang AI, viet tai lieu README.md va push len GitHub
 - **Người thực hiện**: Antigravity / Anh Lưu

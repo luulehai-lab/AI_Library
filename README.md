@@ -2,6 +2,7 @@
 File: README.md
 Description: Tài liệu giới thiệu, cài đặt và vận hành ứng dụng Trợ Lý Thư Viện Sách AI
 CHANGELOG:
+- 10:42:00 08/07/2026: [UPDATE] Cập nhật bối cảnh dự án (2000 cuốn sách giấy, chuyển đổi từ Excel). (Antigravity)
 - 10:18:00 08/07/2026: [NEW] Khởi tạo tài liệu README.md chi tiết và chuyên nghiệp (Antigravity)
 -->
 
@@ -14,6 +15,16 @@ CHANGELOG:
 <p align="center">
   <img src="assets/logo.png" alt="AI Library Logo" width="200"/>
 </p>
+
+---
+
+## 📖 Bối Cảnh Dự Án (Background)
+
+Dự án xuất phát từ nhu cầu quản lý thực tế của Anh Lưu – một người đam mê đọc sách sở hữu thư viện sách giấy đồ sộ với hơn **2000 cuốn**. Việc tổ chức, sắp xếp và lưu trữ thủ công một lượng sách lớn như vậy là một thách thức vô cùng phức tạp và tốn thời gian. 
+
+Ban đầu, anh đã thử quản lý danh mục sách thông qua file Excel. Tuy nhiên, quy trình này đòi hỏi anh phải tự tay tìm kiếm thủ công từng thông tin của cuốn sách trên Internet (từ tên sách chính xác, tác giả, nhà xuất bản, năm xuất bản, số trang, thể loại, lứa tuổi phù hợp cho đến các bài review tóm tắt và giá bán trên các sàn thương mại điện tử như Tiki...) để gõ tay điền vào từng ô Excel. 
+
+Nhận thấy sự bất tiện và tốn sức lực của phương pháp thủ công này, ứng dụng **Trợ Lý Thư Viện Sách AI (AI Library Assistant)** đã ra đời như một giải pháp số hóa thông minh: **Chỉ với một bức ảnh chụp bìa sách**, hệ thống AI sẽ tự động lo liệu toàn bộ các bước còn lại từ phân tích, trích xuất dữ liệu, chuẩn hóa thông tin cho đến lưu trữ và hỗ trợ trò chuyện RAG.
 
 ---
 
@@ -33,7 +44,7 @@ CHANGELOG:
 *   **GUI Framework**: PyQt6
 *   **AI Engine**: Google Gemini API (`google.generativeai` với model `gemini-flash-latest`)
 *   **Vector DB (RAG)**: ChromaDB (sử dụng model `gemini-embedding-001`)
-*   **Database**: SQLite 3
+*   **Database**: SQLite 3 (được cấu hình an toàn với WAL mode)
 *   **Data Export**: openpyxl
 *   **Visualizations**: Matplotlib
 *   **Image Processing**: Pillow (PIL)
