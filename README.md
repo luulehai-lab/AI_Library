@@ -7,6 +7,8 @@ CHANGELOG:
 
 # 📚 Trợ Lý Thư Viện Sách AI (AI Library Assistant)
 
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg) ![UI PyQt6](https://img.shields.io/badge/UI-PyQt6-orange.svg) ![AI Engine Gemini](https://img.shields.io/badge/AI%20Engine-Gemini%20Flash-brightgreen.svg) ![Vector DB ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-blueviolet.svg) ![Database SQLite3](https://img.shields.io/badge/Database-SQLite3-003b57.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Ứng dụng Desktop cao cấp xây dựng bằng **PyQt6** và tích hợp công nghệ **Generative AI (Gemini Flash)** giúp tự động hóa quá trình số hóa, quản lý và tương tác thông minh với thư viện sách cá nhân.
 
 <p align="center">
