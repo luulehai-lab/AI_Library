@@ -5,6 +5,17 @@
 
 ---
 
+## [AI_ASSISTANT]_Thêm tài liệu README_EN.md tiếng Anh và thiết lập liên kết ngôn ngữ ở README.md (10:53:45)
+- **Tác vụ**: Thêm tài liệu README_EN.md tiếng Anh và thiết lập liên kết ngôn ngữ ở README.md
+- **Người thực hiện**: Antigravity / Anh Lưu
+- **Danh sách file thay đổi**:
+| Đường dẫn file | Trạng thái |
+| :--- | :---: |
+| `EADME.md` | MODIFY |
+| `README_EN.md` | NEW |
+
+---
+
 ## [AI_ASSISTANT]_Cập nhật bối cảnh dự án (thư viện 2000 cuốn sách giấy, chuyển từ Excel) vào tài liệu README.md (10:43:12)
 - **Tác vụ**: Cập nhật bối cảnh dự án (thư viện 2000 cuốn sách giấy, chuyển từ Excel) vào tài liệu README.md
 - **Người thực hiện**: Antigravity / Anh Lưu
