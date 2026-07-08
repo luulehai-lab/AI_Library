@@ -1,0 +1,14 @@
+# Tên file: requirements.txt
+# CHANGELOG:
+# - 2024-08-06: [BẢO TRÌ] Cập nhật google-generativeai để sử dụng module google.genai mới nhất. (AI Studio)
+# - 2024-08-06: [NÂNG CẤP] Thêm matplotlib để vẽ biểu đồ thống kê. (AI Studio)
+# - 2024-07-29: [KHỞI TẠO] Danh sách các thư viện cần thiết. (AI Studio)
+
+PyQt6
+google-generativeai
+python-dotenv
+Pillow
+chromadb
+openpyxl
+markdown
+matplotlib
